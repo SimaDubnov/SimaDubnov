@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SimaDubnov
-- 👀 I’m interested in Bioinformatics, Neuroscience and Artificial Intelligence. 
-- 🌱 I’m currently starting my PhD Thesis in ELSC Neuroscience Program (Hebrew University, Jerusalem). 
+- 👀 I’m interested in Molecular Neurobiology, Computational Biology, non-coding RNA. 
+- 🌱 I’m currently a PhD student at the Hebrew University of Jerusalem (ELSC Brain Sciences Center)
 - 💞️ My supervisors are Mor Nitzan and Hermona Soreq.
 - 📫 How to reach me - serafima.dubnov@mail.huji.ac.il
 
